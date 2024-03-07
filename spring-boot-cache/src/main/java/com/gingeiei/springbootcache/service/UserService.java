@@ -1,5 +1,7 @@
-package com.gingeiei.springbootcache;
+package com.gingeiei.springbootcache.service;
 
+import com.gingeiei.springbootcache.model.User;
+import com.gingeiei.springbootcache.repository.UserRepository;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.cache.annotation.CacheEvict;

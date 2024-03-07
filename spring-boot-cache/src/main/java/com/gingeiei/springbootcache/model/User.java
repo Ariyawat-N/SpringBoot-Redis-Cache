@@ -1,4 +1,4 @@
-package com.gingeiei.springbootcache;
+package com.gingeiei.springbootcache.model;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;

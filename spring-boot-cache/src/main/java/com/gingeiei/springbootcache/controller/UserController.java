@@ -1,5 +1,7 @@
-package com.gingeiei.springbootcache;
+package com.gingeiei.springbootcache.controller;
 
+import com.gingeiei.springbootcache.model.User;
+import com.gingeiei.springbootcache.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
